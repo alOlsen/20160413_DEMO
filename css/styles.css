@@ -1,0 +1,30 @@
+body{
+	background-color : green;
+}
+
+#wrap{
+	width 			: 960px;
+	height  		: 100vh;
+	border-style	: solid;
+	border-color	: black;
+	border-width	: 1px;
+	background-color: grey;
+}
+
+.done{
+ 	background-color	: green;
+}
+
+.inProgress{
+	 background-color 	: yellow;
+}
+
+.incomplete{
+	background-color 	: red;
+}
+
+/*
+div{
+	border 	: solid 1px black;
+}
+*/
